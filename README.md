@@ -5,10 +5,11 @@
 
 <!--
 **ramirezj129/ramirezj129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man_student:	Graduate From: UHD '22 Bachelor of Science-Computer Science
 -->
 
 About Me:
-- :man_student:	Graduate From: UHD '22 Bachelor of Science-Computer Science
+
 - :technologist: I’m currently working on Python programming / (Django/Flask) / DSA
 - 🌱 I’m actively learning Java/JavaScript/Html/Css
 - 👯 I’m looking to collaborate on OpenSource projects
