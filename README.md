@@ -1,10 +1,13 @@
-##### ![](https://github.com/ramirezj129/ramirezj129/blob/main/1.gif)
+
+<p align="center">
+  <img src="1.gif" alt="animated" />
+</p>
 
 <!--
 **ramirezj129/ramirezj129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+About Me:
 - :man_student:	Graduate From: UHD '22 Bachelor of Science-Computer Science
 - :technologist: I’m currently working on Python programming / (Django/Flask) / DSA
 - 🌱 I’m actively learning Java/JavaScript/Html/Css
