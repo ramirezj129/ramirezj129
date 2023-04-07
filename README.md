@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ![](https://github.com/ramirezj129/ramirezj129/blob/main/computer.gif)
+### ![](https://github.com/ramirezj129/ramirezj129/blob/main/1.gif)
 
 <!--
 **ramirezj129/ramirezj129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
