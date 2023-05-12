@@ -19,7 +19,8 @@
 - 👯 I’m looking to collaborate on OpenSource projects  
 - 📫 How to reach me: ramirez_javier780@yahoo.com / ramirezj129@gator.uhd.edu
 - :link: Linkedin: <a href="https://www.linkedin.com/in/ramirezj129">  ramirezj129 </a>
-- ⚡ Interest: Personal Projects, Running/Training
+- 🌐 Website: <a href = "https://ramirezj129.com"> ramirezj129.com <\a>
+- ⚡ Interest: Personal Projects, Running
 
  </body>
 
