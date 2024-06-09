@@ -14,7 +14,7 @@
 <body>
 
 - :technologist: I’m currently working on Python Programming | Django/Flask/FastAPI | DSA/OOP | REST/RESTful APIs
-- :computer: Experienced: Python, C++, SQL/mySQL/SQLite , Qt, Linux, Processing 
+- :computer: Experienced: Python, C#, C++. SQL/mySQL/SQLite , Qt, Linux, Processing 
 - :computer: Familiar: Java, JavaScript, HTML, CSS, Bootstrap
 - 👯 I’m looking to collaborate on OpenSource projects  
 - 📫 How to reach me: ramirez_javier780@yahoo.com / ramirezj129@gator.uhd.edu
