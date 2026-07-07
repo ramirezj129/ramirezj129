@@ -3,7 +3,7 @@
  <h2> Hi there. My name is Javier </h2>
  <p align="center">
 
- <img src="1.gif" width="300" height="250"/>
+ <img src="pxiel-jeff-mario.gif" width="300" height="250"/>
   <h3>About me: </h3>
 </p>
 
