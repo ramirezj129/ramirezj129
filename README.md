@@ -1,6 +1,6 @@
 
 
- <h2> Hi, I am Javier Ramirez </h2>
+ <h2> Hi there. My name is Javier </h2>
  <p align="center">
 
  <img src="1.gif" width="300" height="250"/>
